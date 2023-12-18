@@ -1,6 +1,8 @@
-package com.example.retrofit
+package com.example.retrofit.presenter.view_model
 
 import androidx.lifecycle.ViewModel
+import com.example.retrofit.presenter.model.Restaurant
+import com.example.retrofit.data.remote.RestaurantApi
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 

@@ -1,5 +1,6 @@
-package com.example.retrofit
+package com.example.retrofit.data.remote
 
+import com.example.retrofit.presenter.model.Restaurant
 import retrofit2.Response
 import retrofit2.http.GET
 
